@@ -1,5 +1,3 @@
-apt update && apt upgrade;
-apt install ffmpeg;
 termux-setup-storage;
 mkdir 120fps;
 cd storage;
